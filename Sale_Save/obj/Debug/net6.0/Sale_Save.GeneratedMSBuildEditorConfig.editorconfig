@@ -1,0 +1,104 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Sale_Save
+build_property.RootNamespace = Sale_Save
+build_property.ProjectDir = C:\Users\Eduardo\OneDrive\CICLO 4\Desarrollo en base a plataformas\Sale&Save-FINAL\Sale_Save-Carrito\Sale_Save\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Eduardo\OneDrive\CICLO 4\Desarrollo en base a plataformas\Sale&Save-FINAL\Sale_Save-Carrito\Sale_Save
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Eduardo/OneDrive/CICLO 4/Desarrollo en base a plataformas/Sale&Save-FINAL/Sale_Save-Carrito/Sale_Save/Views/Carrito/AgregarCarrito.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fycml0b1xBZ3JlZ2FyQ2Fycml0by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Eduardo/OneDrive/CICLO 4/Desarrollo en base a plataformas/Sale&Save-FINAL/Sale_Save-Carrito/Sale_Save/Views/Clientes/CreateCliente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcQ3JlYXRlQ2xpZW50ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Eduardo/OneDrive/CICLO 4/Desarrollo en base a plataformas/Sale&Save-FINAL/Sale_Save-Carrito/Sale_Save/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Eduardo/OneDrive/CICLO 4/Desarrollo en base a plataformas/Sale&Save-FINAL/Sale_Save-Carrito/Sale_Save/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Eduardo/OneDrive/CICLO 4/Desarrollo en base a plataformas/Sale&Save-FINAL/Sale_Save-Carrito/Sale_Save/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Eduardo/OneDrive/CICLO 4/Desarrollo en base a plataformas/Sale&Save-FINAL/Sale_Save-Carrito/Sale_Save/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Eduardo/OneDrive/CICLO 4/Desarrollo en base a plataformas/Sale&Save-FINAL/Sale_Save-Carrito/Sale_Save/Views/SS/Acercade.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU1NcQWNlcmNhZGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Eduardo/OneDrive/CICLO 4/Desarrollo en base a plataformas/Sale&Save-FINAL/Sale_Save-Carrito/Sale_Save/Views/SS/carrito.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU1NcY2Fycml0by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Eduardo/OneDrive/CICLO 4/Desarrollo en base a plataformas/Sale&Save-FINAL/Sale_Save-Carrito/Sale_Save/Views/SS/climatizacion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU1NcY2xpbWF0aXphY2lvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Eduardo/OneDrive/CICLO 4/Desarrollo en base a plataformas/Sale&Save-FINAL/Sale_Save-Carrito/Sale_Save/Views/SS/cocinas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU1NcY29jaW5hcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Eduardo/OneDrive/CICLO 4/Desarrollo en base a plataformas/Sale&Save-FINAL/Sale_Save-Carrito/Sale_Save/Views/SS/cuidadoPersonal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU1NcY3VpZGFkb1BlcnNvbmFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Eduardo/OneDrive/CICLO 4/Desarrollo en base a plataformas/Sale&Save-FINAL/Sale_Save-Carrito/Sale_Save/Views/SS/descrip_productos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU1NcZGVzY3JpcF9wcm9kdWN0b3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Eduardo/OneDrive/CICLO 4/Desarrollo en base a plataformas/Sale&Save-FINAL/Sale_Save-Carrito/Sale_Save/Views/SS/fecha.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU1NcZmVjaGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Eduardo/OneDrive/CICLO 4/Desarrollo en base a plataformas/Sale&Save-FINAL/Sale_Save-Carrito/Sale_Save/Views/SS/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU1NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Eduardo/OneDrive/CICLO 4/Desarrollo en base a plataformas/Sale&Save-FINAL/Sale_Save-Carrito/Sale_Save/Views/SS/microondas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU1NcbWljcm9vbmRhcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Eduardo/OneDrive/CICLO 4/Desarrollo en base a plataformas/Sale&Save-FINAL/Sale_Save-Carrito/Sale_Save/Views/SS/PoliticaDePrivacidad.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU1NcUG9saXRpY2FEZVByaXZhY2lkYWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Eduardo/OneDrive/CICLO 4/Desarrollo en base a plataformas/Sale&Save-FINAL/Sale_Save-Carrito/Sale_Save/Views/SS/refrigerador.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU1NccmVmcmlnZXJhZG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Eduardo/OneDrive/CICLO 4/Desarrollo en base a plataformas/Sale&Save-FINAL/Sale_Save-Carrito/Sale_Save/Views/SS/televisores.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU1NcdGVsZXZpc29yZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Eduardo/OneDrive/CICLO 4/Desarrollo en base a plataformas/Sale&Save-FINAL/Sale_Save-Carrito/Sale_Save/Views/SS/TerminosYCondiciones.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU1NcVGVybWlub3NZQ29uZGljaW9uZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Eduardo/OneDrive/CICLO 4/Desarrollo en base a plataformas/Sale&Save-FINAL/Sale_Save-Carrito/Sale_Save/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Eduardo/OneDrive/CICLO 4/Desarrollo en base a plataformas/Sale&Save-FINAL/Sale_Save-Carrito/Sale_Save/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Eduardo/OneDrive/CICLO 4/Desarrollo en base a plataformas/Sale&Save-FINAL/Sale_Save-Carrito/Sale_Save/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-jpwjspqz2a

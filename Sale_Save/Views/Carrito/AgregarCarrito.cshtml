@@ -1,0 +1,62 @@
+﻿@using Sale_Save.Controllers
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    List<CarritoItem> lst = Context.Session.GetObject<List<CarritoItem>>("carrito");
+    List<int> canti = new List<int>();
+}
+
+
+<html>
+<body>
+    <h1>carrito</h1>
+    @{
+        int i = 0;
+    }
+    <table class="table table-bordered">
+        <tr>
+            <td scope="col">Marca</td>
+            <td scope="col">Nombre</td>
+            <td scope="col">Precio</td>
+            <td scope="col">Cantidad</td>
+            <td scope="col">Subtotal</td>
+            <td scope="col"></td>
+
+        </tr>
+        <form method="post" name="form">
+        <tbody>
+                @if (lst != null)
+                {
+                    @foreach (var item in lst)
+                    {
+                        var precio = item.Producto.p.Precio;
+                    <tr>
+                        <td scope="col">@item.Producto.m.Nombre</td>
+                        <td scope="col">@item.Producto.p.Nombre</td>
+                        <td scope="col"><input type="text" id="precio @i" value="@item.Producto.p.Precio" disabled runat="server" /> @*S /.@item.Producto.p.Precio*@</td>
+                        <td scope="col"><input type="number" id="cant @i" value="" placeholder="cantidad" runat="server" /></td>
+                        <td scope="col"><output type="text" id="total @i" value="" runat="server" /></td>
+                        <td scope="col"><a onclick="calcular(@i)">Calcular</a></td> <!--Eliminar posiblemente en video 2-3 -->
+                    </tr>
+                        i++;
+                    }
+                }
+        </tbody>
+        </form>
+        <tfoot>
+            <tr>
+                <th colspan="4">Total</th>
+                <th scope="col"><output type="text" id="totalF" value="" />S/.</th>
+                <td scope="col"><a onclick="total(@i)">Calcular</a></td>
+            </tr>
+            <a asp-controller="SS" asp-action="Fecha"> Comprar </a>
+        </tfoot>
+
+        
+    </table>
+    <!--<a asp-controller="Carrito" asp-action="AgregarCarrito" asp-route-id="@*Model.IdProducto*@" method="post"> Finalizar compra </a>-->
+</body>
+<script src="~/js/carrito.js"></script>
+</html>

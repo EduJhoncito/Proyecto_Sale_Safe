@@ -1,0 +1,377 @@
+G:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\bin\Debug\net6.0\appsettings.Development.json
+G:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\bin\Debug\net6.0\appsettings.json
+G:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\bin\Debug\net6.0\Sale_Save.staticwebassets.runtime.json
+G:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\bin\Debug\net6.0\Sale_Save.exe
+G:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\bin\Debug\net6.0\Sale_Save.deps.json
+G:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\bin\Debug\net6.0\Sale_Save.runtimeconfig.json
+G:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\bin\Debug\net6.0\Sale_Save.dll
+G:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\bin\Debug\net6.0\Sale_Save.pdb
+G:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.csproj.AssemblyReference.cache
+G:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.GeneratedMSBuildEditorConfig.editorconfig
+G:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.AssemblyInfoInputs.cache
+G:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.AssemblyInfo.cs
+G:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.csproj.CoreCompileInputs.cache
+G:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.MvcApplicationPartsAssemblyInfo.cache
+G:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.RazorAssemblyInfo.cache
+G:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.RazorAssemblyInfo.cs
+G:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\obj\Debug\net6.0\staticwebassets.build.json
+G:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\obj\Debug\net6.0\staticwebassets.development.json
+G:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\obj\Debug\net6.0\scopedcss\bundle\Sale_Save.styles.css
+G:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\obj\Debug\net6.0\scopedcss\projectbundle\Sale_Save.bundle.scp.css
+G:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.dll
+G:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\obj\Debug\net6.0\refint\Sale_Save.dll
+G:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.pdb
+G:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.genruntimeconfig.cache
+G:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\obj\Debug\net6.0\ref\Sale_Save.dll
+E:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\bin\Debug\net6.0\appsettings.Development.json
+E:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\bin\Debug\net6.0\appsettings.json
+E:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\bin\Debug\net6.0\Sale_Save.staticwebassets.runtime.json
+E:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\bin\Debug\net6.0\Sale_Save.exe
+E:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\bin\Debug\net6.0\Sale_Save.deps.json
+E:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\bin\Debug\net6.0\Sale_Save.runtimeconfig.json
+E:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\bin\Debug\net6.0\Sale_Save.dll
+E:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\bin\Debug\net6.0\Sale_Save.pdb
+E:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.csproj.AssemblyReference.cache
+E:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.GeneratedMSBuildEditorConfig.editorconfig
+E:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.AssemblyInfoInputs.cache
+E:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.AssemblyInfo.cs
+E:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.csproj.CoreCompileInputs.cache
+E:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.MvcApplicationPartsAssemblyInfo.cache
+E:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.RazorAssemblyInfo.cache
+E:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.RazorAssemblyInfo.cs
+E:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\obj\Debug\net6.0\staticwebassets.build.json
+E:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\obj\Debug\net6.0\staticwebassets.development.json
+E:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\obj\Debug\net6.0\scopedcss\bundle\Sale_Save.styles.css
+E:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\obj\Debug\net6.0\scopedcss\projectbundle\Sale_Save.bundle.scp.css
+E:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.dll
+E:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\obj\Debug\net6.0\refint\Sale_Save.dll
+E:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.pdb
+E:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.genruntimeconfig.cache
+E:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\obj\Debug\net6.0\ref\Sale_Save.dll
+E:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\bin\Debug\net6.0\Humanizer.dll
+E:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.csproj.CopyComplete
+E:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\bin\Debug\net6.0\MySqlConnector.dll
+E:\DESARROLLO PLATAFORMAS\Sale_Save\Sale_Save\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\YLEM DIOSES\Downloads\Sale_Save\Sale_Save\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\YLEM DIOSES\Downloads\Sale_Save\Sale_Save\bin\Debug\net6.0\appsettings.json
+C:\Users\YLEM DIOSES\Downloads\Sale_Save\Sale_Save\bin\Debug\net6.0\Sale_Save.staticwebassets.runtime.json
+C:\Users\YLEM DIOSES\Downloads\Sale_Save\Sale_Save\bin\Debug\net6.0\Sale_Save.exe
+C:\Users\YLEM DIOSES\Downloads\Sale_Save\Sale_Save\bin\Debug\net6.0\Sale_Save.deps.json
+C:\Users\YLEM DIOSES\Downloads\Sale_Save\Sale_Save\bin\Debug\net6.0\Sale_Save.runtimeconfig.json
+C:\Users\YLEM DIOSES\Downloads\Sale_Save\Sale_Save\bin\Debug\net6.0\Sale_Save.dll
+C:\Users\YLEM DIOSES\Downloads\Sale_Save\Sale_Save\bin\Debug\net6.0\Sale_Save.pdb
+C:\Users\YLEM DIOSES\Downloads\Sale_Save\Sale_Save\bin\Debug\net6.0\Humanizer.dll
+C:\Users\YLEM DIOSES\Downloads\Sale_Save\Sale_Save\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\YLEM DIOSES\Downloads\Sale_Save\Sale_Save\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\YLEM DIOSES\Downloads\Sale_Save\Sale_Save\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\YLEM DIOSES\Downloads\Sale_Save\Sale_Save\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\YLEM DIOSES\Downloads\Sale_Save\Sale_Save\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\YLEM DIOSES\Downloads\Sale_Save\Sale_Save\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\YLEM DIOSES\Downloads\Sale_Save\Sale_Save\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\YLEM DIOSES\Downloads\Sale_Save\Sale_Save\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\YLEM DIOSES\Downloads\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.csproj.AssemblyReference.cache
+C:\Users\YLEM DIOSES\Downloads\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YLEM DIOSES\Downloads\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.AssemblyInfoInputs.cache
+C:\Users\YLEM DIOSES\Downloads\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.AssemblyInfo.cs
+C:\Users\YLEM DIOSES\Downloads\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.csproj.CoreCompileInputs.cache
+C:\Users\YLEM DIOSES\Downloads\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\YLEM DIOSES\Downloads\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.RazorAssemblyInfo.cache
+C:\Users\YLEM DIOSES\Downloads\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.RazorAssemblyInfo.cs
+C:\Users\YLEM DIOSES\Downloads\Sale_Save\Sale_Save\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\YLEM DIOSES\Downloads\Sale_Save\Sale_Save\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\YLEM DIOSES\Downloads\Sale_Save\Sale_Save\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\YLEM DIOSES\Downloads\Sale_Save\Sale_Save\obj\Debug\net6.0\scopedcss\bundle\Sale_Save.styles.css
+C:\Users\YLEM DIOSES\Downloads\Sale_Save\Sale_Save\obj\Debug\net6.0\scopedcss\projectbundle\Sale_Save.bundle.scp.css
+C:\Users\YLEM DIOSES\Downloads\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.csproj.CopyComplete
+C:\Users\YLEM DIOSES\Downloads\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.dll
+C:\Users\YLEM DIOSES\Downloads\Sale_Save\Sale_Save\obj\Debug\net6.0\refint\Sale_Save.dll
+C:\Users\YLEM DIOSES\Downloads\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.pdb
+C:\Users\YLEM DIOSES\Downloads\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.genruntimeconfig.cache
+C:\Users\YLEM DIOSES\Downloads\Sale_Save\Sale_Save\obj\Debug\net6.0\ref\Sale_Save.dll
+C:\Users\juanp\Desktop\Sale_Save\Sale_Save\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\juanp\Desktop\Sale_Save\Sale_Save\bin\Debug\net6.0\appsettings.json
+C:\Users\juanp\Desktop\Sale_Save\Sale_Save\bin\Debug\net6.0\Sale_Save.staticwebassets.runtime.json
+C:\Users\juanp\Desktop\Sale_Save\Sale_Save\bin\Debug\net6.0\Sale_Save.exe
+C:\Users\juanp\Desktop\Sale_Save\Sale_Save\bin\Debug\net6.0\Sale_Save.deps.json
+C:\Users\juanp\Desktop\Sale_Save\Sale_Save\bin\Debug\net6.0\Sale_Save.runtimeconfig.json
+C:\Users\juanp\Desktop\Sale_Save\Sale_Save\bin\Debug\net6.0\Sale_Save.dll
+C:\Users\juanp\Desktop\Sale_Save\Sale_Save\bin\Debug\net6.0\Sale_Save.pdb
+C:\Users\juanp\Desktop\Sale_Save\Sale_Save\bin\Debug\net6.0\Humanizer.dll
+C:\Users\juanp\Desktop\Sale_Save\Sale_Save\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\juanp\Desktop\Sale_Save\Sale_Save\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\juanp\Desktop\Sale_Save\Sale_Save\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\juanp\Desktop\Sale_Save\Sale_Save\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\juanp\Desktop\Sale_Save\Sale_Save\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\juanp\Desktop\Sale_Save\Sale_Save\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\juanp\Desktop\Sale_Save\Sale_Save\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\juanp\Desktop\Sale_Save\Sale_Save\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\juanp\Desktop\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.csproj.AssemblyReference.cache
+C:\Users\juanp\Desktop\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanp\Desktop\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.AssemblyInfoInputs.cache
+C:\Users\juanp\Desktop\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.AssemblyInfo.cs
+C:\Users\juanp\Desktop\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.csproj.CoreCompileInputs.cache
+C:\Users\juanp\Desktop\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\juanp\Desktop\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.RazorAssemblyInfo.cache
+C:\Users\juanp\Desktop\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.RazorAssemblyInfo.cs
+C:\Users\juanp\Desktop\Sale_Save\Sale_Save\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\juanp\Desktop\Sale_Save\Sale_Save\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\juanp\Desktop\Sale_Save\Sale_Save\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\juanp\Desktop\Sale_Save\Sale_Save\obj\Debug\net6.0\scopedcss\bundle\Sale_Save.styles.css
+C:\Users\juanp\Desktop\Sale_Save\Sale_Save\obj\Debug\net6.0\scopedcss\projectbundle\Sale_Save.bundle.scp.css
+C:\Users\juanp\Desktop\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.csproj.CopyComplete
+C:\Users\juanp\Desktop\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.dll
+C:\Users\juanp\Desktop\Sale_Save\Sale_Save\obj\Debug\net6.0\refint\Sale_Save.dll
+C:\Users\juanp\Desktop\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.pdb
+C:\Users\juanp\Desktop\Sale_Save\Sale_Save\obj\Debug\net6.0\Sale_Save.genruntimeconfig.cache
+C:\Users\juanp\Desktop\Sale_Save\Sale_Save\obj\Debug\net6.0\ref\Sale_Save.dll
+C:\Users\YLEM DIOSES\Downloads\S&S_outPedidos\Sale_Save\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\YLEM DIOSES\Downloads\S&S_outPedidos\Sale_Save\bin\Debug\net6.0\appsettings.json
+C:\Users\YLEM DIOSES\Downloads\S&S_outPedidos\Sale_Save\bin\Debug\net6.0\Sale_Save.staticwebassets.runtime.json
+C:\Users\YLEM DIOSES\Downloads\S&S_outPedidos\Sale_Save\bin\Debug\net6.0\Sale_Save.exe
+C:\Users\YLEM DIOSES\Downloads\S&S_outPedidos\Sale_Save\bin\Debug\net6.0\Sale_Save.deps.json
+C:\Users\YLEM DIOSES\Downloads\S&S_outPedidos\Sale_Save\bin\Debug\net6.0\Sale_Save.runtimeconfig.json
+C:\Users\YLEM DIOSES\Downloads\S&S_outPedidos\Sale_Save\bin\Debug\net6.0\Sale_Save.dll
+C:\Users\YLEM DIOSES\Downloads\S&S_outPedidos\Sale_Save\bin\Debug\net6.0\Sale_Save.pdb
+C:\Users\YLEM DIOSES\Downloads\S&S_outPedidos\Sale_Save\bin\Debug\net6.0\Humanizer.dll
+C:\Users\YLEM DIOSES\Downloads\S&S_outPedidos\Sale_Save\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\YLEM DIOSES\Downloads\S&S_outPedidos\Sale_Save\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\YLEM DIOSES\Downloads\S&S_outPedidos\Sale_Save\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\YLEM DIOSES\Downloads\S&S_outPedidos\Sale_Save\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\YLEM DIOSES\Downloads\S&S_outPedidos\Sale_Save\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\YLEM DIOSES\Downloads\S&S_outPedidos\Sale_Save\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\YLEM DIOSES\Downloads\S&S_outPedidos\Sale_Save\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\YLEM DIOSES\Downloads\S&S_outPedidos\Sale_Save\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\YLEM DIOSES\Downloads\S&S_outPedidos\Sale_Save\obj\Debug\net6.0\Sale_Save.csproj.AssemblyReference.cache
+C:\Users\YLEM DIOSES\Downloads\S&S_outPedidos\Sale_Save\obj\Debug\net6.0\Sale_Save.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YLEM DIOSES\Downloads\S&S_outPedidos\Sale_Save\obj\Debug\net6.0\Sale_Save.AssemblyInfoInputs.cache
+C:\Users\YLEM DIOSES\Downloads\S&S_outPedidos\Sale_Save\obj\Debug\net6.0\Sale_Save.AssemblyInfo.cs
+C:\Users\YLEM DIOSES\Downloads\S&S_outPedidos\Sale_Save\obj\Debug\net6.0\Sale_Save.csproj.CoreCompileInputs.cache
+C:\Users\YLEM DIOSES\Downloads\S&S_outPedidos\Sale_Save\obj\Debug\net6.0\Sale_Save.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\YLEM DIOSES\Downloads\S&S_outPedidos\Sale_Save\obj\Debug\net6.0\Sale_Save.RazorAssemblyInfo.cache
+C:\Users\YLEM DIOSES\Downloads\S&S_outPedidos\Sale_Save\obj\Debug\net6.0\Sale_Save.RazorAssemblyInfo.cs
+C:\Users\YLEM DIOSES\Downloads\S&S_outPedidos\Sale_Save\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\YLEM DIOSES\Downloads\S&S_outPedidos\Sale_Save\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\YLEM DIOSES\Downloads\S&S_outPedidos\Sale_Save\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\YLEM DIOSES\Downloads\S&S_outPedidos\Sale_Save\obj\Debug\net6.0\scopedcss\bundle\Sale_Save.styles.css
+C:\Users\YLEM DIOSES\Downloads\S&S_outPedidos\Sale_Save\obj\Debug\net6.0\scopedcss\projectbundle\Sale_Save.bundle.scp.css
+C:\Users\YLEM DIOSES\Downloads\S&S_outPedidos\Sale_Save\obj\Debug\net6.0\Sale_Save.csproj.CopyComplete
+C:\Users\YLEM DIOSES\Downloads\S&S_outPedidos\Sale_Save\obj\Debug\net6.0\Sale_Save.dll
+C:\Users\YLEM DIOSES\Downloads\S&S_outPedidos\Sale_Save\obj\Debug\net6.0\refint\Sale_Save.dll
+C:\Users\YLEM DIOSES\Downloads\S&S_outPedidos\Sale_Save\obj\Debug\net6.0\Sale_Save.pdb
+C:\Users\YLEM DIOSES\Downloads\S&S_outPedidos\Sale_Save\obj\Debug\net6.0\Sale_Save.genruntimeconfig.cache
+C:\Users\YLEM DIOSES\Downloads\S&S_outPedidos\Sale_Save\obj\Debug\net6.0\ref\Sale_Save.dll
+C:\Users\YLEM DIOSES\Downloads\S&S_outPedidos\Sale_Save\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\YLEM DIOSES\Downloads\S&S_outPedidos\Sale_Save\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\YLEM DIOSES\Downloads\S&S_outPedidos\Sale_Save\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\YLEM DIOSES\Downloads\S&S_outPedidos\Sale_Save\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\DESARROLLO PLATAFORMAS\TRABAJOFRONTEND\Sale_Save2.0\Sale_Save\bin\Debug\net6.0\appsettings.Development.json
+E:\DESARROLLO PLATAFORMAS\TRABAJOFRONTEND\Sale_Save2.0\Sale_Save\bin\Debug\net6.0\appsettings.json
+E:\DESARROLLO PLATAFORMAS\TRABAJOFRONTEND\Sale_Save2.0\Sale_Save\bin\Debug\net6.0\Sale_Save.staticwebassets.runtime.json
+E:\DESARROLLO PLATAFORMAS\TRABAJOFRONTEND\Sale_Save2.0\Sale_Save\bin\Debug\net6.0\Sale_Save.exe
+E:\DESARROLLO PLATAFORMAS\TRABAJOFRONTEND\Sale_Save2.0\Sale_Save\bin\Debug\net6.0\Sale_Save.deps.json
+E:\DESARROLLO PLATAFORMAS\TRABAJOFRONTEND\Sale_Save2.0\Sale_Save\bin\Debug\net6.0\Sale_Save.runtimeconfig.json
+E:\DESARROLLO PLATAFORMAS\TRABAJOFRONTEND\Sale_Save2.0\Sale_Save\bin\Debug\net6.0\Sale_Save.dll
+E:\DESARROLLO PLATAFORMAS\TRABAJOFRONTEND\Sale_Save2.0\Sale_Save\bin\Debug\net6.0\Sale_Save.pdb
+E:\DESARROLLO PLATAFORMAS\TRABAJOFRONTEND\Sale_Save2.0\Sale_Save\bin\Debug\net6.0\Humanizer.dll
+E:\DESARROLLO PLATAFORMAS\TRABAJOFRONTEND\Sale_Save2.0\Sale_Save\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\DESARROLLO PLATAFORMAS\TRABAJOFRONTEND\Sale_Save2.0\Sale_Save\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\DESARROLLO PLATAFORMAS\TRABAJOFRONTEND\Sale_Save2.0\Sale_Save\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\DESARROLLO PLATAFORMAS\TRABAJOFRONTEND\Sale_Save2.0\Sale_Save\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\DESARROLLO PLATAFORMAS\TRABAJOFRONTEND\Sale_Save2.0\Sale_Save\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\DESARROLLO PLATAFORMAS\TRABAJOFRONTEND\Sale_Save2.0\Sale_Save\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\DESARROLLO PLATAFORMAS\TRABAJOFRONTEND\Sale_Save2.0\Sale_Save\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\DESARROLLO PLATAFORMAS\TRABAJOFRONTEND\Sale_Save2.0\Sale_Save\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\DESARROLLO PLATAFORMAS\TRABAJOFRONTEND\Sale_Save2.0\Sale_Save\bin\Debug\net6.0\MySqlConnector.dll
+E:\DESARROLLO PLATAFORMAS\TRABAJOFRONTEND\Sale_Save2.0\Sale_Save\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\DESARROLLO PLATAFORMAS\TRABAJOFRONTEND\Sale_Save2.0\Sale_Save\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\DESARROLLO PLATAFORMAS\TRABAJOFRONTEND\Sale_Save2.0\Sale_Save\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\DESARROLLO PLATAFORMAS\TRABAJOFRONTEND\Sale_Save2.0\Sale_Save\obj\Debug\net6.0\Sale_Save.csproj.AssemblyReference.cache
+E:\DESARROLLO PLATAFORMAS\TRABAJOFRONTEND\Sale_Save2.0\Sale_Save\obj\Debug\net6.0\Sale_Save.GeneratedMSBuildEditorConfig.editorconfig
+E:\DESARROLLO PLATAFORMAS\TRABAJOFRONTEND\Sale_Save2.0\Sale_Save\obj\Debug\net6.0\Sale_Save.AssemblyInfoInputs.cache
+E:\DESARROLLO PLATAFORMAS\TRABAJOFRONTEND\Sale_Save2.0\Sale_Save\obj\Debug\net6.0\Sale_Save.AssemblyInfo.cs
+E:\DESARROLLO PLATAFORMAS\TRABAJOFRONTEND\Sale_Save2.0\Sale_Save\obj\Debug\net6.0\Sale_Save.csproj.CoreCompileInputs.cache
+E:\DESARROLLO PLATAFORMAS\TRABAJOFRONTEND\Sale_Save2.0\Sale_Save\obj\Debug\net6.0\Sale_Save.MvcApplicationPartsAssemblyInfo.cache
+E:\DESARROLLO PLATAFORMAS\TRABAJOFRONTEND\Sale_Save2.0\Sale_Save\obj\Debug\net6.0\Sale_Save.RazorAssemblyInfo.cache
+E:\DESARROLLO PLATAFORMAS\TRABAJOFRONTEND\Sale_Save2.0\Sale_Save\obj\Debug\net6.0\Sale_Save.RazorAssemblyInfo.cs
+E:\DESARROLLO PLATAFORMAS\TRABAJOFRONTEND\Sale_Save2.0\Sale_Save\obj\Debug\net6.0\staticwebassets.build.json
+E:\DESARROLLO PLATAFORMAS\TRABAJOFRONTEND\Sale_Save2.0\Sale_Save\obj\Debug\net6.0\staticwebassets.development.json
+E:\DESARROLLO PLATAFORMAS\TRABAJOFRONTEND\Sale_Save2.0\Sale_Save\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\DESARROLLO PLATAFORMAS\TRABAJOFRONTEND\Sale_Save2.0\Sale_Save\obj\Debug\net6.0\scopedcss\bundle\Sale_Save.styles.css
+E:\DESARROLLO PLATAFORMAS\TRABAJOFRONTEND\Sale_Save2.0\Sale_Save\obj\Debug\net6.0\scopedcss\projectbundle\Sale_Save.bundle.scp.css
+E:\DESARROLLO PLATAFORMAS\TRABAJOFRONTEND\Sale_Save2.0\Sale_Save\obj\Debug\net6.0\Sale_Save.csproj.CopyComplete
+E:\DESARROLLO PLATAFORMAS\TRABAJOFRONTEND\Sale_Save2.0\Sale_Save\obj\Debug\net6.0\Sale_Save.dll
+E:\DESARROLLO PLATAFORMAS\TRABAJOFRONTEND\Sale_Save2.0\Sale_Save\obj\Debug\net6.0\refint\Sale_Save.dll
+E:\DESARROLLO PLATAFORMAS\TRABAJOFRONTEND\Sale_Save2.0\Sale_Save\obj\Debug\net6.0\Sale_Save.pdb
+E:\DESARROLLO PLATAFORMAS\TRABAJOFRONTEND\Sale_Save2.0\Sale_Save\obj\Debug\net6.0\Sale_Save.genruntimeconfig.cache
+E:\DESARROLLO PLATAFORMAS\TRABAJOFRONTEND\Sale_Save2.0\Sale_Save\obj\Debug\net6.0\ref\Sale_Save.dll
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0\Sale_Save\bin\Debug\net6.0\appsettings.Development.json
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0\Sale_Save\bin\Debug\net6.0\appsettings.json
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0\Sale_Save\bin\Debug\net6.0\Sale_Save.staticwebassets.runtime.json
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0\Sale_Save\bin\Debug\net6.0\Sale_Save.exe
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0\Sale_Save\bin\Debug\net6.0\Sale_Save.deps.json
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0\Sale_Save\bin\Debug\net6.0\Sale_Save.runtimeconfig.json
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0\Sale_Save\bin\Debug\net6.0\Sale_Save.dll
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0\Sale_Save\bin\Debug\net6.0\Sale_Save.pdb
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0\Sale_Save\bin\Debug\net6.0\Humanizer.dll
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0\Sale_Save\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0\Sale_Save\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0\Sale_Save\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0\Sale_Save\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0\Sale_Save\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0\Sale_Save\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0\Sale_Save\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0\Sale_Save\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0\Sale_Save\bin\Debug\net6.0\MySqlConnector.dll
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0\Sale_Save\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0\Sale_Save\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0\Sale_Save\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0\Sale_Save\obj\Debug\net6.0\Sale_Save.csproj.AssemblyReference.cache
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0\Sale_Save\obj\Debug\net6.0\Sale_Save.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0\Sale_Save\obj\Debug\net6.0\Sale_Save.AssemblyInfoInputs.cache
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0\Sale_Save\obj\Debug\net6.0\Sale_Save.AssemblyInfo.cs
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0\Sale_Save\obj\Debug\net6.0\Sale_Save.csproj.CoreCompileInputs.cache
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0\Sale_Save\obj\Debug\net6.0\Sale_Save.MvcApplicationPartsAssemblyInfo.cache
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0\Sale_Save\obj\Debug\net6.0\Sale_Save.RazorAssemblyInfo.cache
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0\Sale_Save\obj\Debug\net6.0\Sale_Save.RazorAssemblyInfo.cs
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0\Sale_Save\obj\Debug\net6.0\staticwebassets.build.json
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0\Sale_Save\obj\Debug\net6.0\staticwebassets.development.json
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0\Sale_Save\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0\Sale_Save\obj\Debug\net6.0\scopedcss\bundle\Sale_Save.styles.css
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0\Sale_Save\obj\Debug\net6.0\scopedcss\projectbundle\Sale_Save.bundle.scp.css
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0\Sale_Save\obj\Debug\net6.0\Sale_Save.csproj.CopyComplete
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0\Sale_Save\obj\Debug\net6.0\Sale_Save.dll
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0\Sale_Save\obj\Debug\net6.0\refint\Sale_Save.dll
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0\Sale_Save\obj\Debug\net6.0\Sale_Save.pdb
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0\Sale_Save\obj\Debug\net6.0\Sale_Save.genruntimeconfig.cache
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0\Sale_Save\obj\Debug\net6.0\ref\Sale_Save.dll
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0.0\Sale_Save\bin\Debug\net6.0\appsettings.Development.json
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0.0\Sale_Save\bin\Debug\net6.0\appsettings.json
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0.0\Sale_Save\bin\Debug\net6.0\Sale_Save.staticwebassets.runtime.json
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0.0\Sale_Save\bin\Debug\net6.0\Sale_Save.exe
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0.0\Sale_Save\bin\Debug\net6.0\Sale_Save.deps.json
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0.0\Sale_Save\bin\Debug\net6.0\Sale_Save.runtimeconfig.json
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0.0\Sale_Save\bin\Debug\net6.0\Sale_Save.dll
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0.0\Sale_Save\bin\Debug\net6.0\Sale_Save.pdb
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0.0\Sale_Save\bin\Debug\net6.0\Humanizer.dll
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0.0\Sale_Save\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0.0\Sale_Save\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0.0\Sale_Save\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0.0\Sale_Save\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0.0\Sale_Save\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0.0\Sale_Save\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0.0\Sale_Save\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0.0\Sale_Save\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0.0\Sale_Save\bin\Debug\net6.0\MySqlConnector.dll
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0.0\Sale_Save\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0.0\Sale_Save\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0.0\Sale_Save\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0.0\Sale_Save\obj\Debug\net6.0\Sale_Save.csproj.AssemblyReference.cache
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0.0\Sale_Save\obj\Debug\net6.0\Sale_Save.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0.0\Sale_Save\obj\Debug\net6.0\Sale_Save.AssemblyInfoInputs.cache
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0.0\Sale_Save\obj\Debug\net6.0\Sale_Save.AssemblyInfo.cs
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0.0\Sale_Save\obj\Debug\net6.0\Sale_Save.csproj.CoreCompileInputs.cache
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0.0\Sale_Save\obj\Debug\net6.0\Sale_Save.MvcApplicationPartsAssemblyInfo.cache
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0.0\Sale_Save\obj\Debug\net6.0\Sale_Save.RazorAssemblyInfo.cache
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0.0\Sale_Save\obj\Debug\net6.0\Sale_Save.RazorAssemblyInfo.cs
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0.0\Sale_Save\obj\Debug\net6.0\staticwebassets.build.json
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0.0\Sale_Save\obj\Debug\net6.0\staticwebassets.development.json
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0.0\Sale_Save\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0.0\Sale_Save\obj\Debug\net6.0\scopedcss\bundle\Sale_Save.styles.css
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0.0\Sale_Save\obj\Debug\net6.0\scopedcss\projectbundle\Sale_Save.bundle.scp.css
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0.0\Sale_Save\obj\Debug\net6.0\Sale_Save.csproj.CopyComplete
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0.0\Sale_Save\obj\Debug\net6.0\Sale_Save.dll
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0.0\Sale_Save\obj\Debug\net6.0\refint\Sale_Save.dll
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0.0\Sale_Save\obj\Debug\net6.0\Sale_Save.pdb
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0.0\Sale_Save\obj\Debug\net6.0\Sale_Save.genruntimeconfig.cache
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0.0\Sale_Save\obj\Debug\net6.0\ref\Sale_Save.dll
+D:\Mis Documentos\Escritorio\Nueva carpeta\Sale_Save2.0.0\Sale_Save\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\REPASODESARROLLO\TRABAJOAVANZADO\Sale_Save-Carrito\Sale_Save\bin\Debug\net6.0\appsettings.Development.json
+E:\REPASODESARROLLO\TRABAJOAVANZADO\Sale_Save-Carrito\Sale_Save\bin\Debug\net6.0\appsettings.json
+E:\REPASODESARROLLO\TRABAJOAVANZADO\Sale_Save-Carrito\Sale_Save\bin\Debug\net6.0\Sale_Save.staticwebassets.runtime.json
+E:\REPASODESARROLLO\TRABAJOAVANZADO\Sale_Save-Carrito\Sale_Save\bin\Debug\net6.0\Sale_Save.exe
+E:\REPASODESARROLLO\TRABAJOAVANZADO\Sale_Save-Carrito\Sale_Save\bin\Debug\net6.0\Sale_Save.deps.json
+E:\REPASODESARROLLO\TRABAJOAVANZADO\Sale_Save-Carrito\Sale_Save\bin\Debug\net6.0\Sale_Save.runtimeconfig.json
+E:\REPASODESARROLLO\TRABAJOAVANZADO\Sale_Save-Carrito\Sale_Save\bin\Debug\net6.0\Sale_Save.dll
+E:\REPASODESARROLLO\TRABAJOAVANZADO\Sale_Save-Carrito\Sale_Save\bin\Debug\net6.0\Sale_Save.pdb
+E:\REPASODESARROLLO\TRABAJOAVANZADO\Sale_Save-Carrito\Sale_Save\bin\Debug\net6.0\Humanizer.dll
+E:\REPASODESARROLLO\TRABAJOAVANZADO\Sale_Save-Carrito\Sale_Save\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\REPASODESARROLLO\TRABAJOAVANZADO\Sale_Save-Carrito\Sale_Save\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\REPASODESARROLLO\TRABAJOAVANZADO\Sale_Save-Carrito\Sale_Save\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\REPASODESARROLLO\TRABAJOAVANZADO\Sale_Save-Carrito\Sale_Save\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\REPASODESARROLLO\TRABAJOAVANZADO\Sale_Save-Carrito\Sale_Save\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\REPASODESARROLLO\TRABAJOAVANZADO\Sale_Save-Carrito\Sale_Save\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\REPASODESARROLLO\TRABAJOAVANZADO\Sale_Save-Carrito\Sale_Save\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\REPASODESARROLLO\TRABAJOAVANZADO\Sale_Save-Carrito\Sale_Save\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\REPASODESARROLLO\TRABAJOAVANZADO\Sale_Save-Carrito\Sale_Save\bin\Debug\net6.0\MySqlConnector.dll
+E:\REPASODESARROLLO\TRABAJOAVANZADO\Sale_Save-Carrito\Sale_Save\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\REPASODESARROLLO\TRABAJOAVANZADO\Sale_Save-Carrito\Sale_Save\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\REPASODESARROLLO\TRABAJOAVANZADO\Sale_Save-Carrito\Sale_Save\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\REPASODESARROLLO\TRABAJOAVANZADO\Sale_Save-Carrito\Sale_Save\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\REPASODESARROLLO\TRABAJOAVANZADO\Sale_Save-Carrito\Sale_Save\obj\Debug\net6.0\Sale_Save.csproj.AssemblyReference.cache
+E:\REPASODESARROLLO\TRABAJOAVANZADO\Sale_Save-Carrito\Sale_Save\obj\Debug\net6.0\Sale_Save.GeneratedMSBuildEditorConfig.editorconfig
+E:\REPASODESARROLLO\TRABAJOAVANZADO\Sale_Save-Carrito\Sale_Save\obj\Debug\net6.0\Sale_Save.AssemblyInfoInputs.cache
+E:\REPASODESARROLLO\TRABAJOAVANZADO\Sale_Save-Carrito\Sale_Save\obj\Debug\net6.0\Sale_Save.AssemblyInfo.cs
+E:\REPASODESARROLLO\TRABAJOAVANZADO\Sale_Save-Carrito\Sale_Save\obj\Debug\net6.0\Sale_Save.csproj.CoreCompileInputs.cache
+E:\REPASODESARROLLO\TRABAJOAVANZADO\Sale_Save-Carrito\Sale_Save\obj\Debug\net6.0\Sale_Save.MvcApplicationPartsAssemblyInfo.cache
+E:\REPASODESARROLLO\TRABAJOAVANZADO\Sale_Save-Carrito\Sale_Save\obj\Debug\net6.0\Sale_Save.RazorAssemblyInfo.cache
+E:\REPASODESARROLLO\TRABAJOAVANZADO\Sale_Save-Carrito\Sale_Save\obj\Debug\net6.0\Sale_Save.RazorAssemblyInfo.cs
+E:\REPASODESARROLLO\TRABAJOAVANZADO\Sale_Save-Carrito\Sale_Save\obj\Debug\net6.0\staticwebassets.build.json
+E:\REPASODESARROLLO\TRABAJOAVANZADO\Sale_Save-Carrito\Sale_Save\obj\Debug\net6.0\staticwebassets.development.json
+E:\REPASODESARROLLO\TRABAJOAVANZADO\Sale_Save-Carrito\Sale_Save\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\REPASODESARROLLO\TRABAJOAVANZADO\Sale_Save-Carrito\Sale_Save\obj\Debug\net6.0\scopedcss\bundle\Sale_Save.styles.css
+E:\REPASODESARROLLO\TRABAJOAVANZADO\Sale_Save-Carrito\Sale_Save\obj\Debug\net6.0\scopedcss\projectbundle\Sale_Save.bundle.scp.css
+E:\REPASODESARROLLO\TRABAJOAVANZADO\Sale_Save-Carrito\Sale_Save\obj\Debug\net6.0\Sale_Save.csproj.CopyComplete
+E:\REPASODESARROLLO\TRABAJOAVANZADO\Sale_Save-Carrito\Sale_Save\obj\Debug\net6.0\Sale_Save.dll
+E:\REPASODESARROLLO\TRABAJOAVANZADO\Sale_Save-Carrito\Sale_Save\obj\Debug\net6.0\refint\Sale_Save.dll
+E:\REPASODESARROLLO\TRABAJOAVANZADO\Sale_Save-Carrito\Sale_Save\obj\Debug\net6.0\Sale_Save.pdb
+E:\REPASODESARROLLO\TRABAJOAVANZADO\Sale_Save-Carrito\Sale_Save\obj\Debug\net6.0\Sale_Save.genruntimeconfig.cache
+E:\REPASODESARROLLO\TRABAJOAVANZADO\Sale_Save-Carrito\Sale_Save\obj\Debug\net6.0\ref\Sale_Save.dll
+C:\Users\Eduardo\OneDrive\CICLO 4\Desarrollo en base a plataformas\Sale&Save-FINAL\Sale_Save-Carrito\Sale_Save\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Eduardo\OneDrive\CICLO 4\Desarrollo en base a plataformas\Sale&Save-FINAL\Sale_Save-Carrito\Sale_Save\bin\Debug\net6.0\appsettings.json
+C:\Users\Eduardo\OneDrive\CICLO 4\Desarrollo en base a plataformas\Sale&Save-FINAL\Sale_Save-Carrito\Sale_Save\bin\Debug\net6.0\Sale_Save.staticwebassets.runtime.json
+C:\Users\Eduardo\OneDrive\CICLO 4\Desarrollo en base a plataformas\Sale&Save-FINAL\Sale_Save-Carrito\Sale_Save\bin\Debug\net6.0\Sale_Save.exe
+C:\Users\Eduardo\OneDrive\CICLO 4\Desarrollo en base a plataformas\Sale&Save-FINAL\Sale_Save-Carrito\Sale_Save\bin\Debug\net6.0\Sale_Save.deps.json
+C:\Users\Eduardo\OneDrive\CICLO 4\Desarrollo en base a plataformas\Sale&Save-FINAL\Sale_Save-Carrito\Sale_Save\bin\Debug\net6.0\Sale_Save.runtimeconfig.json
+C:\Users\Eduardo\OneDrive\CICLO 4\Desarrollo en base a plataformas\Sale&Save-FINAL\Sale_Save-Carrito\Sale_Save\bin\Debug\net6.0\Sale_Save.dll
+C:\Users\Eduardo\OneDrive\CICLO 4\Desarrollo en base a plataformas\Sale&Save-FINAL\Sale_Save-Carrito\Sale_Save\bin\Debug\net6.0\Sale_Save.pdb
+C:\Users\Eduardo\OneDrive\CICLO 4\Desarrollo en base a plataformas\Sale&Save-FINAL\Sale_Save-Carrito\Sale_Save\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Eduardo\OneDrive\CICLO 4\Desarrollo en base a plataformas\Sale&Save-FINAL\Sale_Save-Carrito\Sale_Save\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Eduardo\OneDrive\CICLO 4\Desarrollo en base a plataformas\Sale&Save-FINAL\Sale_Save-Carrito\Sale_Save\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Eduardo\OneDrive\CICLO 4\Desarrollo en base a plataformas\Sale&Save-FINAL\Sale_Save-Carrito\Sale_Save\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Eduardo\OneDrive\CICLO 4\Desarrollo en base a plataformas\Sale&Save-FINAL\Sale_Save-Carrito\Sale_Save\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Eduardo\OneDrive\CICLO 4\Desarrollo en base a plataformas\Sale&Save-FINAL\Sale_Save-Carrito\Sale_Save\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Eduardo\OneDrive\CICLO 4\Desarrollo en base a plataformas\Sale&Save-FINAL\Sale_Save-Carrito\Sale_Save\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Eduardo\OneDrive\CICLO 4\Desarrollo en base a plataformas\Sale&Save-FINAL\Sale_Save-Carrito\Sale_Save\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Eduardo\OneDrive\CICLO 4\Desarrollo en base a plataformas\Sale&Save-FINAL\Sale_Save-Carrito\Sale_Save\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Eduardo\OneDrive\CICLO 4\Desarrollo en base a plataformas\Sale&Save-FINAL\Sale_Save-Carrito\Sale_Save\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Eduardo\OneDrive\CICLO 4\Desarrollo en base a plataformas\Sale&Save-FINAL\Sale_Save-Carrito\Sale_Save\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Eduardo\OneDrive\CICLO 4\Desarrollo en base a plataformas\Sale&Save-FINAL\Sale_Save-Carrito\Sale_Save\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Eduardo\OneDrive\CICLO 4\Desarrollo en base a plataformas\Sale&Save-FINAL\Sale_Save-Carrito\Sale_Save\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Eduardo\OneDrive\CICLO 4\Desarrollo en base a plataformas\Sale&Save-FINAL\Sale_Save-Carrito\Sale_Save\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Eduardo\OneDrive\CICLO 4\Desarrollo en base a plataformas\Sale&Save-FINAL\Sale_Save-Carrito\Sale_Save\obj\Debug\net6.0\Sale_Save.csproj.AssemblyReference.cache
+C:\Users\Eduardo\OneDrive\CICLO 4\Desarrollo en base a plataformas\Sale&Save-FINAL\Sale_Save-Carrito\Sale_Save\obj\Debug\net6.0\Sale_Save.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\OneDrive\CICLO 4\Desarrollo en base a plataformas\Sale&Save-FINAL\Sale_Save-Carrito\Sale_Save\obj\Debug\net6.0\Sale_Save.AssemblyInfoInputs.cache
+C:\Users\Eduardo\OneDrive\CICLO 4\Desarrollo en base a plataformas\Sale&Save-FINAL\Sale_Save-Carrito\Sale_Save\obj\Debug\net6.0\Sale_Save.AssemblyInfo.cs
+C:\Users\Eduardo\OneDrive\CICLO 4\Desarrollo en base a plataformas\Sale&Save-FINAL\Sale_Save-Carrito\Sale_Save\obj\Debug\net6.0\Sale_Save.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\OneDrive\CICLO 4\Desarrollo en base a plataformas\Sale&Save-FINAL\Sale_Save-Carrito\Sale_Save\obj\Debug\net6.0\Sale_Save.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Eduardo\OneDrive\CICLO 4\Desarrollo en base a plataformas\Sale&Save-FINAL\Sale_Save-Carrito\Sale_Save\obj\Debug\net6.0\Sale_Save.RazorAssemblyInfo.cache
+C:\Users\Eduardo\OneDrive\CICLO 4\Desarrollo en base a plataformas\Sale&Save-FINAL\Sale_Save-Carrito\Sale_Save\obj\Debug\net6.0\Sale_Save.RazorAssemblyInfo.cs
+C:\Users\Eduardo\OneDrive\CICLO 4\Desarrollo en base a plataformas\Sale&Save-FINAL\Sale_Save-Carrito\Sale_Save\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Eduardo\OneDrive\CICLO 4\Desarrollo en base a plataformas\Sale&Save-FINAL\Sale_Save-Carrito\Sale_Save\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Eduardo\OneDrive\CICLO 4\Desarrollo en base a plataformas\Sale&Save-FINAL\Sale_Save-Carrito\Sale_Save\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Eduardo\OneDrive\CICLO 4\Desarrollo en base a plataformas\Sale&Save-FINAL\Sale_Save-Carrito\Sale_Save\obj\Debug\net6.0\scopedcss\bundle\Sale_Save.styles.css
+C:\Users\Eduardo\OneDrive\CICLO 4\Desarrollo en base a plataformas\Sale&Save-FINAL\Sale_Save-Carrito\Sale_Save\obj\Debug\net6.0\scopedcss\projectbundle\Sale_Save.bundle.scp.css
+C:\Users\Eduardo\OneDrive\CICLO 4\Desarrollo en base a plataformas\Sale&Save-FINAL\Sale_Save-Carrito\Sale_Save\obj\Debug\net6.0\Sale_Save.csproj.CopyComplete
+C:\Users\Eduardo\OneDrive\CICLO 4\Desarrollo en base a plataformas\Sale&Save-FINAL\Sale_Save-Carrito\Sale_Save\obj\Debug\net6.0\Sale_Save.dll
+C:\Users\Eduardo\OneDrive\CICLO 4\Desarrollo en base a plataformas\Sale&Save-FINAL\Sale_Save-Carrito\Sale_Save\obj\Debug\net6.0\refint\Sale_Save.dll
+C:\Users\Eduardo\OneDrive\CICLO 4\Desarrollo en base a plataformas\Sale&Save-FINAL\Sale_Save-Carrito\Sale_Save\obj\Debug\net6.0\Sale_Save.pdb
+C:\Users\Eduardo\OneDrive\CICLO 4\Desarrollo en base a plataformas\Sale&Save-FINAL\Sale_Save-Carrito\Sale_Save\obj\Debug\net6.0\Sale_Save.genruntimeconfig.cache
+C:\Users\Eduardo\OneDrive\CICLO 4\Desarrollo en base a plataformas\Sale&Save-FINAL\Sale_Save-Carrito\Sale_Save\obj\Debug\net6.0\ref\Sale_Save.dll

@@ -1,0 +1,23 @@
+﻿body {
+    /*width: 125%;*/
+}
+
+.images img {
+    width: 270px;
+    height: 250px;
+    margin-bottom: 20px;
+    flex-direction: row;
+    padding: 1px;
+}
+
+.images a {
+    width: 290px;
+    height: 295px;
+    padding: 10px;
+    flex-direction: row;
+}
+
+.images {
+    overflow: hidden;
+    /*display: flex;*/
+}

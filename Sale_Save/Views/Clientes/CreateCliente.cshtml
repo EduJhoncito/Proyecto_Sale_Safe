@@ -1,0 +1,51 @@
+﻿@model Sale_Save.Models.Cliente
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <title>Tech</title>
+</head>
+<body>
+    <div class="container">
+
+        <h1>INGRESE SUS DATOS</h1>
+        <form asp-controller="Clientes" asp-action="CreateCliente" method="post">
+            <div class="form-group">
+                <label for="formGroupExampleInput">Ingrese su nombre</label>
+                <input asp-for="Nombre" type="text" class="form-control" id="formGroupExampleInput" placeholder="nombre" value="" name="nombre" required>
+            </div>
+            <div class="form-group">
+                <label for="formGroupExampleInput2">Ingrese su apellido</label>
+                <input asp-for="Apellido" type="text" class="form-control" id="formGroupExampleInput2" placeholder="Apellido" name="Apellido" required>
+            </div>
+            <div class="form-group">
+                <label for="formGroupExampleInput2">Ingrese su direccion</label>
+                <input asp-for="Direccion" type="text" class="form-control" id="formGroupExampleInput2" placeholder="Direccion" name="Direccion" required>
+            </div>
+            <div class="form-group">
+                <label for="formGroupExampleInput2">Ingrese su telefono</label>
+                <input asp-for="Telefono" type="text" class="form-control" id="formGroupExampleInput2" placeholder="Telefono" name="Telefono" required>
+            </div>
+            <div class="form-group">
+                <label for="formGroupExampleInput2">Ingrese su dni</label>
+                <input asp-for="Dni" type="text" class="form-control" id="formGroupExampleInput2" placeholder="Dni" name="Dni" required>
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary" value="btn" name="grabar" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">Ingresar</button>
+            </div>
+            <div class="form-group">
+            </div>
+
+        </form>
+    </div>
+
+</body>
+</html>
